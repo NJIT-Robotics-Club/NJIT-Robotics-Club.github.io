@@ -16,7 +16,7 @@ const config = {
   url: 'https://njit-robotics-club.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/NJIT-Robotics-Club.github.io/',
+  baseUrl: '/njit-robotics-club.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
