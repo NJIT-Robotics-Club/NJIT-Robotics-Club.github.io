@@ -16,12 +16,12 @@ const config = {
   url: 'https://njit-robotics-club.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/roboticsclubwiki.github.io/',
+  baseUrl: '/NJIT-Robotics-Club.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NJIT-Robotics-Club', // Usually your GitHub org/user name.
-  projectName: 'roboticsclubwiki.github.io', // Usually your repo name.
+  projectName: 'NJIT-Robotics-Club.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
